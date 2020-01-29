@@ -14,9 +14,11 @@ You can play our games using links below:
 ![Work, Eat, Repeat](/imgs/promo.jpg)
 
 - [Download in Google Play](https://play.google.com/store/apps/details?id=net.gamesofton.oligarkh)
-- Will be available in App Store soon!
-
+- [Download in iTunes](https://apps.apple.com/us/app/work-eat-repeat/id1479168986)
 - [Privacy policy](/adult-life-simulator-privacy-policy.html)
+
+### PLACEHOLDER
+- [Privacy policy](/chuckncluck-privacy-policy.html)
 
 ## Support
 
