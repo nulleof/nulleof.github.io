@@ -18,6 +18,9 @@ You can play our games using links below:
 - [Privacy policy](/adult-life-simulator-privacy-policy.html)
 
 ### Farmstong
+
+![Farmstrong](/imgs/promo_farmstrong.jpg)
+
 - [Download in Google Play](https://play.google.com/store/apps/details?id=net.gamesofton.zoofarmlife)
 - [Privacy policy](/farmstrong-privacy-policy.html)
 
