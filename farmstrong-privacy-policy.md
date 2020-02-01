@@ -4,10 +4,10 @@ layout: default
 
 # TonOfGames
 
-## PLACEHOLDER - Privacy Policy
+## Farmstrong - Privacy Policy
 
 <h3>
-PLACEHOLDER, 31th of January 2020.
+Farmstrong, 31th of January 2020.
 </h3>
 
 <p>
@@ -28,10 +28,10 @@ We send information about visited inapp screens to Firebase. We use this informa
 You can mail us <a href="mailto:gamesofton@gmail.com">gamesofton@gmail.com</a>
 </p>
 
-## PLACEHOLDER - Политика конфиденциальности
+## Farmstrong - Политика конфиденциальности
 
 <h3>
-Политика конфиденциальности приложения PLACEHOLDER от 31 января 2020 года
+Политика конфиденциальности приложения Farmstrong от 31 января 2020 года
 </h3>
 
 <p>

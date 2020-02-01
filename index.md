@@ -17,8 +17,9 @@ You can play our games using links below:
 - [Download in iTunes](https://apps.apple.com/us/app/work-eat-repeat/id1479168986)
 - [Privacy policy](/adult-life-simulator-privacy-policy.html)
 
-### PLACEHOLDER
-- [Privacy policy](/chuckncluck-privacy-policy.html)
+### Farmstong
+- [Download in Google Play](https://play.google.com/store/apps/details?id=net.gamesofton.zoofarmlife)
+- [Privacy policy](/farmstrong-privacy-policy.html)
 
 ## Support
 
