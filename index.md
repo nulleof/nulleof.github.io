@@ -22,6 +22,7 @@ You can play our games using links below:
 ![Farmstrong](/imgs/promo_farmstrong.jpg)
 
 - [Download in Google Play](https://play.google.com/store/apps/details?id=net.gamesofton.zoofarmlife)
+- [Download in iTunes](https://apps.apple.com/us/app/farmstrong/id1498173137)
 - [Privacy policy](/farmstrong-privacy-policy.html)
 
 ## Support
