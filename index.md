@@ -9,6 +9,14 @@ We are mobile game developers.
 ## Our games
 You can play our games using links below:
 
+### Space Alchemy
+
+![Space Alchemy](/imgs/promo_spacealchemy.jpg)
+
+- [Download in Google Play](https://play.google.com/store/apps/details?id=net.gamesofton.spacealchemy)
+- [Download in iTunes](https://apps.apple.com/us/app/work-eat-repeat/id1527969203)
+- [Privacy policy](/space-alchemy-privacy-policy.html)
+
 ### Work, Eat, Repeat
 
 ![Work, Eat, Repeat](/imgs/promo.jpg)
