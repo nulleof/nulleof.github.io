@@ -9,6 +9,13 @@ We are mobile game developers.
 ## Our games
 You can play our games using links below:
 
+### Drive it Crazy
+
+![Space Alchemy](/imgs/promo_drive_it_crazy.png)
+
+- [Download in Google Play](https://play.google.com/store/apps/details?id=net.gamesofton.driveitcrazy)
+- [Privacy policy](/drive-it-crazy-privacy-policy.html)
+
 ### Space Alchemy
 
 ![Space Alchemy](/imgs/promo_spacealchemy.jpg)
