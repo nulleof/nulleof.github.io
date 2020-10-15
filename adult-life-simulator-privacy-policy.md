@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TonOfGames
+# Gamesofton
 
 ## Work, Eat, Repeat - Privacy Policy
 

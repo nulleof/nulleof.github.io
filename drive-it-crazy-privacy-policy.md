@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TonOfGames
+# Gamesofton
 
 ## Drive it Crazy - Privacy Policy
 

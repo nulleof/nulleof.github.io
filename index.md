@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TonOfGames
+# Gamesofton
 
 We are mobile game developers. 
 

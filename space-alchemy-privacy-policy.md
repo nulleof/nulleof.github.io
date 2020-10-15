@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TonOfGames
+# Gamesofton
 
 ## Space Alchemy - Privacy Policy
 

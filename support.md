@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# TonOfGames
+# Gamesofton
 
 You can contact us, just email to <a href="mailto:gamesofton@gmail.com">gamesofton@gmail.com</a>, and we will listen to all questions and suggestions.
 
