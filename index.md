@@ -9,9 +9,16 @@ We are mobile game developers.
 ## Our games
 You can play our games using links below:
 
+### Giant Rage
+
+![Giant Rage](/imgs/promo_giant_rage.png)
+
+- [Download in iTunes](https://apps.apple.com/us/app/id1545808302)
+- [Privacy policy](/giant-rage-privacy-policy.html)
+
 ### Drive it Crazy
 
-![Space Alchemy](/imgs/promo_drive_it_crazy.png)
+![Drive it Crazy](/imgs/promo_drive_it_crazy.png)
 
 - [Download in Google Play](https://play.google.com/store/apps/details?id=net.gamesofton.driveitcrazy)
 - [Privacy policy](/drive-it-crazy-privacy-policy.html)
