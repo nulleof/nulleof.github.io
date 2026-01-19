@@ -1,5 +1,5 @@
 {
-  "authUrl": "http://127.0.0.1:8888/auth",
-  "apiUrl": "http://127.0.0.1:5102/",
+  "authUrl": "https://auth.tc.just-luck.ru",
+  "apiUrl": "https://api.tc.just-luck.ru",
   "maintenance": false
 }
